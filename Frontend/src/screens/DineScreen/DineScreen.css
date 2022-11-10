@@ -1,0 +1,48 @@
+.dine-screen {
+	text-align: start;
+}
+
+.dine-image {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.dine-image > img {
+	position: relative;
+}
+
+.name {
+	font-size: 3rem;
+	font-weight: 900;
+}
+
+.dine-description {
+	font-size: 0.9rem;
+}
+
+.order-button,
+.order-button:hover,
+.order-button:focus,
+.order-button:focus-within,
+.order-button:focus-visible {
+	background: #fb6d72;
+	border: none;
+	box-shadow: none;
+}
+
+.order-cta {
+	width: 40px;
+	line-height: 100%;
+	text-align: center;
+	vertical-align: center;
+}
+
+@media screen and (min-width: 768px) {
+	.dine-details {
+		width: 60%;
+	}
+	.dine-image {
+		width: 40%;
+		margin: auto;
+	}
+}

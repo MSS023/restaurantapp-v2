@@ -1,0 +1,297 @@
+{
+  "menu": [
+    {
+      "category": "Pizza",
+      "items": [
+        {
+          "id": "PI1",
+          "img": "https://www.dominos.co.in/files/items/Margherit.jpg",
+          "name": "Margherita",
+          "description": "A hugely popular margherita, with a deliciously tangy single cheese topping",
+          "type": "veg",
+          "price": 150
+        },
+        {
+          "id": "PI2",
+          "img": "https://www.dominos.co.in/files/items/Double_Cheese_Margherita.jpg",
+          "name": "Double Cheese Margherita",
+          "description": "The ever-popular Margherita - loaded with extra cheese... oodies of it",
+          "type": "veg",
+          "price": 200
+        },
+        {
+          "id": "PI3",
+          "img": "https://www.dominos.co.in/files/items/Farmhouse.jpg",
+          "name": "Farm House",
+          "description": "A pizza that goes ballistic on veggies! Check out this mouth watering overload of crunchy, crisp capsicum, succulent mushrooms and fresh tomatoes",
+          "type": "veg",
+          "price": 250
+        },
+        {
+          "id": "PI4",
+          "img": "https://www.dominos.co.in/files/items/Peppy_Paneer.jpg",
+          "name": "Peppy Paneer",
+          "description": "Chunky paneer with crisp capsicum and spicy red pepper - quite a mouthful!",
+          "type": "veg",
+          "price": 250
+        },
+        {
+          "id": "PI5",
+          "img": "https://www.dominos.co.in/files/items/Mexican_Green_Wave.jpg",
+          "name": "Mexican Green Wave",
+          "description": "A pizza loaded with crunchy onions, crisp capsicum, juicy tomatoes and jalapeno with a liberal sprinkling of exotic Mexican herbs.",
+          "type": "veg",
+          "price": 300
+        },
+        {
+          "id": "PI6",
+          "img": "https://www.dominos.co.in/files/items/Deluxe_Veggie.jpg",
+          "name": "Deluxe Veggie",
+          "description": "For a vegetarian looking for a BIG treat that goes easy on the spices, this one's got it all.. The onions, the capsicum, those delectable mushrooms - with paneer and golden corn to top it all.",
+          "type": "veg",
+          "price": 350
+        },
+        {
+          "id": "PI7",
+          "img": "https://www.dominos.co.in/files/items/Veg_Extravaganz.jpg",
+          "name": "Veg Extravaganza",
+          "description": "A pizza that decidedly staggers under an overload of golden corn, exotic black olives, crunchy onions, crisp capsicum, succulent mushrooms, juicyfresh tomatoes and jalapeno - with extra cheese to go all around.",
+          "type": "veg",
+          "price": 350
+        },
+        {
+          "id": "PI8",
+          "img": "https://www.dominos.co.in/files/items/Veg_Extravaganz.jpg",
+          "name": "Cheese and Corn",
+          "description": "Cheese I Golden Corn | Cheese n Corn Pizza",
+          "type": "veg",
+          "price": 200
+        },
+        {
+          "id": "PI9",
+          "img": "https://www.dominos.co.in/files/items/Fresh_Veggie.jpg",
+          "name": "Fresh Veggie",
+          "description": "Onion & Capsicum",
+          "type": "veg",
+          "price": 200
+        },
+        {
+          "id": "PI10",
+          "img": "https://www.dominos.co.in/files/items/Digital_Veggie_Paradise_olo_266x265.jpg",
+          "name": "Veggie Paradise",
+          "description": "Goldern Corn, Black Olives, Capsicum & Red Paprika",
+          "type": "veg",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "category": "Pasta",
+      "items": [
+        {
+          "id": "PA1",
+          "name": "Spaghetti in Pink Sauce",
+          "description": "This pasta is mixture of white and red sauce combination makes it little creamy and little tangy and little spicy.",
+          "type": "veg",
+          "price": 150
+        },
+        {
+          "id": "PA2",
+          "name": "Spaghetti in Red Sauce",
+          "description": "Spaghetti pasta made with tomato sauce , cloves garlic, herbs, and onions makes it little tangy and spicy",
+          "type": "veg",
+          "price": 200
+        },
+        {
+          "id": "PA3",
+          "name": "Spaghetti in White Sauce",
+          "description": "Spaghetti cooked with white cream and cheese topped with fresh broccoli , olives, chopped garlic ,onion and whisk with special herbs",
+          "type": "veg",
+          "price": 250
+        },
+        {
+          "id": "PA4",
+          "name": "Spaghetti with Aglio Olio",
+          "description": "Spaghetti pasta made with good rich of cream , cheese and cooked with mushrooms",
+          "type": "veg",
+          "price": 250
+        },
+        {
+          "id": "PA5",
+          "name": "Creamy Mushroom Pasta",
+          "description": "Decadent and sumptuous this creamy and cheesy penne pasta with only mushroom makes it amazing for mushroom lovers.",
+          "type": "veg",
+          "price": 300
+        },
+        {
+          "id": "PA6",
+          "name": "Penne Pasta in White Sauce",
+          "description": "Decadent and sumptuous, this creamy, cheesy penne pasta is comfort food at its best",
+          "type": "veg",
+          "price": 350
+        },
+        {
+          "id": "PA7",
+          "name": "Penne Pasta in Red Sauce",
+          "description": "Easy, delicious penne pasta cooked in a red creamy spicy tomato based sauce",
+          "type": "veg",
+          "price": 350
+        },
+        {
+          "id": "PA8",
+          "name": "Penne Pasta in Mixed Sauce",
+          "description": "Sumptious pasta tossed with veggies and coated with a blend of red tomato based sauce and white sauce",
+          "type": "veg",
+          "price": 200
+        },
+        {
+          "id": "PA9",
+          "name": "Penne Pasta in Cheese Sauce",
+          "description": "Cheesy gooey pasta tossed with veggies and cooked in a blend of rich, 3 cheese sauce",
+          "type": "veg",
+          "price": 200
+        },
+        {
+          "id": "PA10",
+          "name": "Tandoori Sauce Penne Pasta",
+          "description": "Irressistible mild spiced, creamy and tangy penne variety pasta in a tandoori masala sauce.| served with Seasoning|",
+          "type": "veg",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "category": "Sandwiches",
+      "items": [
+        {
+          "id": "SA1",
+          "name": "Aloo Patty",
+          "description": "The traditional aloo patty seasoned with special herbs and spices with your choice of crisp fresh veggies, on freshly baked bread.",
+          "type": "veg",
+          "price": 150
+        },
+        {
+          "id": "SA2",
+          "name": "Chicken Kofta",
+          "description": "Chicken that's coarsely ground is laced with a hint of Indian spices mix.",
+          "type": "non-veg",
+          "price": 200
+        },
+        {
+          "id": "SA3",
+          "name": "Chicken Slice",
+          "description": "Savory sliced chicken slice with your choice of fresh vegetables all served on freshly baked bread.",
+          "type": "veg",
+          "price": 250
+        },
+        {
+          "id": "SA4",
+          "name": "Corn & Peas",
+          "description": "A delicious assortment of green peas, golden corns and crunchy dices of carrot , blended in a creamy mixture of eggless mayo sauce.",
+          "type": "veg",
+          "price": 250
+        },
+        {
+          "id": "SA5",
+          "name": "Hara Bhara Kebab",
+          "description": "Served on a freshly baked bread, nutritious spinach base with an abundance of exotic Indian spice mix.",
+          "type": "veg",
+          "price": 300
+        }
+      ]
+    },
+    {
+      "category": "Salads",
+      "items": [
+        {
+          "id": "SAL1",
+          "name": "Veggie Delight Salad",
+          "description": "Cucumber, tomato, mix bell pepper, broccoli, black olive and red onion served on a bed of assorted lettuce with honey mustard vinaigrette and multigrain bread roll",
+          "type": "veg",
+          "price": 150
+        },
+        {
+          "id": "SAL2",
+          "name": "Veg Caesar Salad",
+          "description": "Yellow bell pepper, green bell pepper, red bell pepper, onion slice, black olive, parmesan cheese and bread crouton served on a bed of assorted lettuce with homemade caesar dressing & multigrain bread ",
+          "type": "veg",
+          "price": 200
+        },
+        {
+          "id": "SAL3",
+          "name": "Raw Papaya Salad",
+          "description": "Raw papaya, french beans, sprout, carrot, cherry tomato, red bell pepper, yellow bell pepper, green bell pepper, peanut and fresh mint served on a bed of assorted lettuce with sweet chili vinaigrette & multigrain bread",
+          "type": "veg",
+          "price": 250
+        },
+        {
+          "id": "SAL4",
+          "name": "Grilled Asian Veg Salad",
+          "description": "Asian style grilled paneer, baby spinach, red cabbage, English carrot, white radish, spring onion, roasted peanut and cherry tomato served on a bed of Chinese cabbage with sweet chili vinaigrette.",
+          "type": "veg",
+          "price": 250
+        },
+        {
+          "id": "SAL5",
+          "name": "Cottage Cheese and Grilled Veggie Salad",
+          "description": "Grilled cottage cheese, zucchini, carrot, broccoli, mushroom, french beans, red bell pepper, yellow bell pepper, green bell pepper and jalapenos served on a bed of assorted lettuce and balsamic vinaigrette & multigrain bread",
+          "type": "veg",
+          "price": 300
+        }
+      ]
+    },
+    {
+      "category": "Desserts",
+      "items": [
+        {
+          "id": "DE1",
+          "name": "Lava Cake",
+          "description": "Filled with delecious molten chocolate inside.",
+          "type": "veg",
+          "price": 150
+        },
+        {
+          "id": "DE2",
+          "name": "Butterscotch Mousse Cake",
+          "description": "A Creamy & Chocolaty indulgence with layers of rich, fluffy Butterscotch Cream and delicious Dark Chocolate Cake, topped with crunchy Dark Chocolate morsels - for a perfect dessert treat!",
+          "type": "veg",
+          "price": 200
+        }
+      ]
+    },
+    {
+      "category": "Beverages",
+      "items": [
+        {
+          "id": "BE1",
+          "name": "Pepsi (500ML)",
+          "description": "Softdrink from PepsiCo",
+          "type": "veg",
+          "price": 50
+        },
+        {
+          "id": "BE2",
+          "name": "7UP (500ML)",
+          "description": "Softdrink from PepsiCo",
+          "type": "veg",
+          "price": 50
+        },
+        {
+          "id": "BE3",
+          "name": "Lipton Ice Tea (250ML)",
+          "description": "Refreshing iced tea",
+          "type": "veg",
+          "price": 30
+        },
+        {
+          "id": "BE4",
+          "name": "Bisleri Water (1L)",
+          "description": "Bisleri",
+          "type": "veg",
+          "price": 20
+        }
+      ]
+    }
+  ],
+  "customers": []
+}
